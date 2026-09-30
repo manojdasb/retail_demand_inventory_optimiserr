@@ -1,0 +1,16 @@
+{
+  "gbm_wape": 0.14018361797553708,
+  "gbm_rmse": 10.260285897186657,
+  "naive_wape": 0.22299350868635323,
+  "naive_rmse": 17.75352077758099,
+  "wape_improvement_pct": 37.135561119534934,
+  "n_rows": 26280,
+  "n_series": 36,
+  "mean_fill_ml": 1.0,
+  "mean_fill_naive": 0.9995376429429794,
+  "mean_inv_ml": 80.71978950041566,
+  "mean_inv_naive": 97.83336981506429,
+  "inventory_change_pct": -17.492579829355414,
+  "target_service_level": 0.95,
+  "lead_time_days": 3
+}

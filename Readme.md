@@ -4,7 +4,7 @@
 
 **Forecast demand. Cut inventory. Keep shelves full.**
 
-[![CI](https://github.com/manojdasb/retail-demand-inventory-optimizer/actions/workflows/ci.yml/badge.svg)](https://github.com/manojdasb/retail-demand-inventory-optimizer/actions)
+
 ![Python](https://img.shields.io/badge/Python-3.10%20|%203.11%20|%203.12-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Gradient%20Boosting-F7931E?logo=scikitlearn&logoColor=white)
 ![Tests](https://img.shields.io/badge/tests-24%20passing-brightgreen)

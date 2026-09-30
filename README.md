@@ -22,6 +22,8 @@ you hold less stock for the same in-stock rate.
 | WAPE (lower is better) | 22.3% | **14.0%** (37% relative reduction) |
 | RMSE (units/day) | 17.8 | **~10.4** |
 
+![Holdout forecast vs actual](reports/forecast_vs_actual.png)
+
 Inventory simulation (95% target service level, 3-day lead time, 36 store-SKU series;
 each policy sizes safety stock from its own forecast error):
 
